@@ -26,7 +26,6 @@
 -->
 
 
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -36,14 +35,12 @@
 
   <p align="center">
     Licence professionnelle Métiers de l'informatique - Applications Web
-    <br />
-    <a href="#">Portfolio</a>
-    ·
-    [![LinkedIn][linkedin-shield]][linkedin-url]
-    ·
-    [![instagram][instagram-shield]][instagram-url]
   </p>
+
 </div>
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![instagram][instagram-shield]][instagram-url]
 
 
 
