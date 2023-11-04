@@ -1,32 +1,6 @@
-<!--👋 Hello, my name is Dylan LOUICHON
-- 📈 20 years
-- 🇫🇷  France
-- 🏫 University of Limoges (Professional license IT professions - Web application)-->
-
-
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
 
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
-
-<!-- PROJECT LOGO -->
+<!-- En tête -->
 <br />
 <div align="center">
     <img src="images/pp-modified.png" alt="Logo" width="100" height="100">
@@ -34,13 +8,14 @@
   <h3 align="center">Dylan LOUICHON</h3>
 
   <p align="center">
-    Licence professionnelle Métiers de l'informatique - Applications Web
+    Professional license IT professions - Web applications | France, Limoges
   </p>
 
 </div>
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![instagram][instagram-shield]][instagram-url]
+[![gmail][gmail-shield]][gmail-url]
 
 <h1>In progress...</h1>
 
@@ -51,3 +26,5 @@
 [instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=for-the-badge&logo=instagram&colorB=555
 [instagram-url]: https://instagram.com/dylan.lchn
 
+[gmail-shield]: https://img.shields.io/badge/-Gmail-black.svg?style=for-the-badge&logo=gmail&colorB=555
+[gmail-url]: mailto:dylanlouichon@gmail.com
