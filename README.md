@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="images/pp-modified.png" alt="Logo" width="80" height="80">
+    <img src="images/pp-modified.png" alt="Logo" width="100" height="100">
 
   <h3 align="center">Dylan LOUICHON</h3>
 
