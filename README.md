@@ -6,7 +6,7 @@
     <img src="images/pp-modified.png" alt="Logo" width="100" height="100">
 
   <h3 align="center">Dylan LOUICHON</h3>
-  <h4>🇫🇷 🏴󠁧󠁢󠁥󠁮󠁧󠁿</h4>
+  <h4>🇫🇷   🏴󠁧󠁢󠁥󠁮󠁧󠁿</h4>
   <p align="center">
     🏫 Professional license IT professions - Web applications | 📍 France, Limoges
   </p>
