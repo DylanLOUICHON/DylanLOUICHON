@@ -21,6 +21,7 @@
 [![portfolio][portfolio-shield]][portfolio-url]
 [![discord][discord-shield]][discord-url]
 [![teams][teams-shield]][teams-url]
+[![googledev][googledev-shield]][googledev-url]
 
 <br />
 <hr>
@@ -91,6 +92,9 @@
 
 [teams-shield]: https://img.shields.io/badge/Dylan%20LOUICHON-5D5BD4?style=for-the-badge&logo=microsoftteams&logoColor=white
 [teams-url]: #
+
+[googledev-shield]: https://img.shields.io/badge/Google%20Developer-EA4335?style=for-the-badge&logo=google&logoColor=white
+[googledev-url]: https://g.dev/louichondylan
 
 
 
