@@ -22,12 +22,18 @@
 [![discord][discord-shield]][discord-url]
 [![teams][teams-shield]][teams-url]
 
-### Who am I 
-..............................
-..............................
-..............................
+### Who am I
+<hr>
+🎂 J'ai 20 ans (né en 2003) et je suis fier d'être français 🇫🇷.<br />
+🎓 J'ai décroché un diplôme Bac+2 en BTS SIO (Services Informatiques aux Organisations) avec l'option SLAM.<br />
+💻 En tant que développeur, j'ai créé le site internet et une application mobile sous Android pour l'ensemble scolaire Notre Dame Saint Privat.<br />
+⚽ Le football, 🚴‍♂️ le VTT et 🏋️‍♂️ la musculation sont mes passions en dehors du développement informatique.<br />
+⚙️ Je préfère travailler sur le back-end plutôt que sur le front-end, mais j'essaie de m'améliorer en design.<br />
+<br />
+💬 N'hésitez pas à me contacter si vous souhaitez que l'on collabore ensemble 😉  
 
 ### My Skills
+<hr>
 [![html][html.com]][html-url] [![CSS3][css3.com]][css3-url] [![Javascript][javascript.com]][javascript-url] [![PHP][php.net]][php-url]
 [![codeigniter][codeigniter.com]][codeigniter-url] [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
