@@ -22,6 +22,7 @@
 [![discord][discord-shield]][discord-url]
 [![teams][teams-shield]][teams-url]
 [![googledev][googledev-shield]][googledev-url]
+[![guilded][guilded-shield]][guilded-url]
 
 <br />
 <hr>
@@ -95,6 +96,9 @@
 
 [googledev-shield]: https://img.shields.io/badge/Google%20Developer-EA4335?style=for-the-badge&logo=google&logoColor=white
 [googledev-url]: https://g.dev/louichondylan
+
+[guilded-shield]: https://img.shields.io/badge/Guilded-ceb300?style=for-the-badge&logo=guilded&logoColor=white
+[guilded-url]: #
 
 
 
