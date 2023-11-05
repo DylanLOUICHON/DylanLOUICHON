@@ -20,6 +20,7 @@
 [![gmail][gmail-shield]][gmail-url]
 [![portfolio][portfolio-shield]][portfolio-url]
 [![discord][discord-shield]][discord-url]
+[![teams][teams-shield]][teams-url]
 
 ### Who am I 
 ..............................
