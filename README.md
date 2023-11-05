@@ -19,6 +19,7 @@
 [![facebook][facebook-shield]][facebook-url]
 [![gmail][gmail-shield]][gmail-url]
 [![portfolio][portfolio-shield]][portfolio-url]
+[![discord][discord-shield]][discord-url]
 
 ### Who am I 
 ..............................
@@ -55,6 +56,12 @@
 
 [portfolio-shield]: https://img.shields.io/badge/Portfolio%20(temporarily%20closed)-259b07?style=for-the-badge&logo=planet&logoColor=white
 [portfolio-url]: #
+
+[discord-shield]: https://img.shields.io/badge/dylan.lchn-313338?style=for-the-badge&logo=discord&logoColor=white
+[discord-url]: #
+
+[teams-shield]: https://img.shields.io/badge/Dylan%20LOUICHON-5D5BD4?style=for-the-badge&logo=microsoftteams&logoColor=white
+[teams-url]: #
 
 
 
