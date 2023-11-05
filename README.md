@@ -22,18 +22,36 @@
 [![discord][discord-shield]][discord-url]
 [![teams][teams-shield]][teams-url]
 
-### Who am I
 <hr>
+    
+### Qui suis je ? | Who am I?
+
+<hr>
+
 🎂 J'ai 20 ans (né en 2003) et je suis fier d'être français 🇫🇷.<br />
 🎓 J'ai décroché un diplôme Bac+2 en BTS SIO (Services Informatiques aux Organisations) avec l'option SLAM.<br />
 💻 En tant que développeur, j'ai créé le site internet et une application mobile sous Android pour l'ensemble scolaire Notre Dame Saint Privat.<br />
 ⚽ Le football, 🚴‍♂️ le VTT et 🏋️‍♂️ la musculation sont mes passions en dehors du développement informatique.<br />
 ⚙️ Je préfère travailler sur le back-end plutôt que sur le front-end, mais j'essaie de m'améliorer en design.<br />
 <br />
-💬 N'hésitez pas à me contacter si vous souhaitez que l'on collabore ensemble 😉  
+💬 N'hésitez pas à me contacter si vous souhaitez que l'on collabore ensemble 😉
+<br />
+<div></div>
+<br />
+🎂 I am 20 years old (born in 2003) and I'm proud to be French 🇫🇷.<br />
+🎓 I earned a Bac+2 degree in BTS SIO (Information Services to Organizations) with an option in SLAM.<br />
+💻 As a developer, I've created the website and a mobile application for Android for Notre Dame Saint Privat school.<br />
+⚽ Football, 🚴‍♂️ mountain biking, and 🏋️‍♂️ weightlifting are my passions outside of computer development.<br />
+⚙️ I prefer working on the back-end rather than the front-end, but I'm trying to improve my design skills.<br />
+<br />
+💬 Feel free to get in touch if you'd like to collaborate with me 😉
 
-### My Skills
 <hr>
+
+### Mes compétences | My Skills
+
+<hr>
+
 [![html][html.com]][html-url] [![CSS3][css3.com]][css3-url] [![Javascript][javascript.com]][javascript-url] [![PHP][php.net]][php-url]
 [![codeigniter][codeigniter.com]][codeigniter-url] [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
