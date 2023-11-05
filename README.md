@@ -55,7 +55,7 @@
 [gmail-shield]: https://img.shields.io/badge/Gmail-a01506?style=for-the-badge&logo=gmail&logoColor=white
 [gmail-url]: mailto:dylanlouichon@gmail.com
 
-[portfolio-shield]: https://img.shields.io/badge/Portfolio%20(temporarily%20closed)-259b07?style=for-the-badge&logo=planet&logoColor=white
+[portfolio-shield]: https://img.shields.io/badge/Portfolio%20(temp.%20closed)-259b07?style=for-the-badge&logo=planet&logoColor=white
 [portfolio-url]: #
 
 [discord-shield]: https://img.shields.io/badge/dylan.lchn-313338?style=for-the-badge&logo=discord&logoColor=white
