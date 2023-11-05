@@ -22,6 +22,7 @@
 [![discord][discord-shield]][discord-url]
 [![teams][teams-shield]][teams-url]
 
+<br />
 <hr>
     
 ### Qui suis je ? | Who am I?
@@ -35,9 +36,11 @@
 ⚙️ Je préfère travailler sur le back-end plutôt que sur le front-end, mais j'essaie de m'améliorer en design.<br />
 <br />
 💬 N'hésitez pas à me contacter si vous souhaitez que l'on collabore ensemble 😉
+
 <br />
 <div></div>
 <br />
+
 🎂 I am 20 years old (born in 2003) and I'm proud to be French 🇫🇷.<br />
 🎓 I earned a Bac+2 degree in BTS SIO (Information Services to Organizations) with an option in SLAM.<br />
 💻 As a developer, I've created the website and a mobile application for Android for Notre Dame Saint Privat school.<br />
@@ -46,6 +49,8 @@
 <br />
 💬 Feel free to get in touch if you'd like to collaborate with me 😉
 
+<br />
+<div></div>
 <hr>
 
 ### Mes compétences | My Skills
