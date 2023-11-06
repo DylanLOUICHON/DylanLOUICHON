@@ -1,5 +1,7 @@
 <a name="readme-top"></a>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=DylanLOUICHON&label=Profile%20views&color=0e75b6&style=flat" alt="dylanLOUICHON" /> </p>
+
 <!-- En tête -->
 <br />
 <div align="center">
