@@ -57,6 +57,12 @@
 [![My Skills](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
 [![My Skills](https://skillicons.dev/icons?i=php)](https://www.php.net/)
 [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
+[![My Skills](https://skillicons.dev/icons?i=tailwind&theme=light)](https://tailwindcss.com/)
+[![My Skills](https://skillicons.dev/icons?i=py&theme=light)](https://www.python.org/)
+[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/fr/)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio&theme=light)](https://developer.android.com/studio)
+[![My Skills](https://skillicons.dev/icons?i=vscode&theme=light)](https://code.visualstudio.com/o)
+[![My Skills](https://skillicons.dev/icons?i=wordpress)](https://wordpress.org/)
 
 
 <br />
