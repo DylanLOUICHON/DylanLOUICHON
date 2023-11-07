@@ -8,7 +8,10 @@
     <img src="images/pp-modified.png" alt="Logo" width="100" height="100">
 
   <h3 align="center">Dylan LOUICHON</h3>
-  <p>🇫🇷   🏴󠁧󠁢󠁥󠁮󠁧󠁿</p>
+
+![France](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/fr.png "France")
+  
+
   <p align="center">
     🏫 Professional license IT professions - Web applications | 📍 France, Limoges
   </p>
