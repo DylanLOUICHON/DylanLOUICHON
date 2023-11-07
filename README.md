@@ -52,8 +52,8 @@
 
 <hr>
 
-[![html][html.com]][html-url] [![CSS3][css3.com]][css3-url] [![Javascript][javascript.com]][javascript-url] [![PHP][php.net]][php-url]
-[![codeigniter][codeigniter.com]][codeigniter-url] [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+[![My Skills](https://skillicons.dev/icons?i=,html,css,js,php,bootstrap)](#)
+
 
 <br />
 
