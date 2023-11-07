@@ -52,7 +52,11 @@
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=,html,css,js,php,bootstrap)](#)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://html.com/)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://www.css3.com/)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
+[![My Skills](https://skillicons.dev/icons?i=php)](https://www.php.net/)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
 
 
 <br />
@@ -93,23 +97,3 @@
 [guilded-shield]: https://img.shields.io/badge/Guilded-ceb300?style=for-the-badge&logo=guilded&logoColor=white
 [guilded-url]: #
 
-
-
-<!-- Skills -->
-[html.com]: https://img.shields.io/badge/HTML-2e7005?style=for-the-badge&logo=html5&logoColor=white
-[html-url]: https://html.com/
-
-[css3.com]: https://img.shields.io/badge/CSS-0b8fa7?style=for-the-badge&logo=css3&logoColor=white
-[css3-url]: https://www.css3.com/
-
-[javascript.com]: https://img.shields.io/badge/JAVASCRIPT-ceb300?style=for-the-badge&logo=javascript&logoColor=white&labelColor=White
-[javascript-url]: https://www.javascript.com/
-
-[php.net]: https://img.shields.io/badge/PHP-7A86B8?style=for-the-badge&logo=php&logoColor=white&labelColor=White
-[php-url]: https://www.php.net/
-
-[codeigniter.com]: https://img.shields.io/badge/CodeIgniter-DD4814?style=for-the-badge&logo=codeigniter&logoColor=white
-[codeigniter-url]: https://codeigniter.com/
-
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
