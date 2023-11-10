@@ -17,9 +17,8 @@
   </p>
 
 </div>
-<br />
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<!-- [![LinkedIn][linkedin-shield]][linkedin-url]
 [![instagram][instagram-shield]][instagram-url]
 [![facebook][facebook-shield]][facebook-url]
 [![gmail][gmail-shield]][gmail-url]
@@ -27,11 +26,14 @@
 [![discord][discord-shield]][discord-url]
 [![teams][teams-shield]][teams-url]
 [![googledev][googledev-shield]][googledev-url]
-[![guilded][guilded-shield]][guilded-url]
+[![guilded][guilded-shield]][guilded-url] -->
 
 <br />
+
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=DylanLOUICHON&show_icons=true&theme=radical)
+
 <hr>
-    
+
 ### Who I am?
 
 <hr>
