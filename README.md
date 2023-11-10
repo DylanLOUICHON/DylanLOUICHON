@@ -30,8 +30,12 @@
 
 <br />
 
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=DylanLOUICHON&show_icons=true&theme=radical)
-
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DylanLOUICHON&show_icons=true&theme=radicals" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanLOUICHON&layout=compact" />
+</a>
 <hr>
 
 ### Who I am?
