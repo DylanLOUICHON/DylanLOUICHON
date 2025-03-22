@@ -43,8 +43,8 @@
 
 <hr>
 
-🎂 I am 20 years old (born in 2003) and I'm proud to be French 🇫🇷.<br />
-🎓 I earned a Bac+2 degree in BTS SIO (IT Services for Organizations) with an option in SLAM.<br />
+🎂 I am 21 years old (born in 2003) and I'm French 🇫🇷.<br />
+🎓 I earned Professional Bachelor's Degree in Digital Communications and E-Activities.<br />
 💻 As a developer, I've created the website and a mobile application for Android for Notre Dame Saint Privat school.<br />
 ⚽ Football, 🚴‍♂️ mountain biking, and 🏋️‍♂️ weightlifting are my passions outside of computer development.<br />
 ⚙️ I prefer working on the back-end rather than the front-end, but I'm trying to improve my design skills.<br />
